@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/all"
+        android:title="@string/all" />
+
+    <item
+        android:id="@+id/politics"
+        android:title="@string/politics" />
+
+    <item
+        android:id="@+id/sport"
+        android:title="@string/sport" />
+
+    <item
+        android:id="@+id/economics"
+        android:title="@string/economics" />
+
+    <item
+        android:id="@+id/incidents"
+        android:title="@string/incidents" />
+
+    <item
+        android:id="@+id/in_the_world"
+        android:title="@string/in_the_world" />
+
+    <item
+        android:id="@+id/society"
+        android:title="@string/society" />
+
+    <item
+        android:id="@+id/hi_tech"
+        android:title="@string/hi_tech" />
+
+
+
+</menu>

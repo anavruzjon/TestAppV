@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestAppV</string>
+    <string name="navigation_view_header_title">Some text</string>
+    <string name="category">Категория</string>
+    <string name="politics">Политика</string>
+    <string name="sport">Спорт</string>
+    <string name="economics">Экономика</string>
+    <string name="incidents">Проишествия</string>
+    <string name="in_the_world">В мире</string>
+    <string name="society">Общество</string>
+    <string name="hi_tech">Hi-Tech. Интернет</string>
+    <string name="all">Все</string>
+    <string name="news">Новости</string>
+    <string name="no_internet_connection">Нет подключения к Интернету. Оффлайн новости</string>
+</resources>
